@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798703955990",
+    "project_id": "chat-aoo-d8225",
+    "storage_bucket": "chat-aoo-d8225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798703955990:android:1f97bc8023bc008a7bc537",
+        "android_client_info": {
+          "package_name": "com.example.massenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798703955990-5l7d68h5r6559d1ncqps9gf6fojdmeir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbS5-RtrnZlSgAmlG4uHdufndksl51LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798703955990-5l7d68h5r6559d1ncqps9gf6fojdmeir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
